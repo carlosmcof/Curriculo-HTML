@@ -1,0 +1,39 @@
+.titulo {
+    color: indigo;
+    font-family: Century Gothic;
+}
+.contato{
+    color: black;
+    font-family: Century Gothic;
+}
+p{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(235, 243, 242);
+}
+.endereço{
+    font-family: Century Gothic;
+}
+.objetivo {
+    font-family: Century Gothic;
+}
+.qualific {
+    font-family: Century Gothic;
+}
+.formacao{
+    font-family: Century Gothic;
+}
+.atual {
+    font-family: Century Gothic;
+}
+.anterior{
+    font-family: Century Gothic;
+}
+.redes {
+    font-family: Century Gothic;
+}
+.senior {
+    font-size: 20px;
+}
